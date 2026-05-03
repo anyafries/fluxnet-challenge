@@ -10,6 +10,10 @@ A small starter page for running the Fluxtrapolation benchmark.
 
 3. Build, train, and evaluate your model using the benchmark README.
 
+4. **Can you get a better skill score than 0.17 for 90th quantile of RMSE for evapotranspiration (ET)?**
+
+   ... Use foundation models, embeddings, domain generalization methods, whatever comes to mind!
+
 Questions, bugs, or feedback?  
 
 📧 anya.fries@math.stat.ethz.ch
