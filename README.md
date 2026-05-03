@@ -1,2 +1,15 @@
-# fluxnet-challenge
-A challenge: extrapolating ecosystem fluxes
+# 🌿 Fluxtrapolation for the Seminar in Domain Generalization 
+
+A small starter page for running the Fluxtrapolation benchmark.
+
+1. Clone the benchmark repo: https://github.com/anyafries/fluxnet_bench
+
+2. Download the data: https://nextcloud.bgc-jena.mpg.de/s/wjZzy8BCE7KagEQ  
+
+   Save it in `data/sites` in the same directory.
+
+3. Build, train, and evaluate your model using the benchmark README.
+
+Questions, bugs, or feedback?  
+
+📧 anya.fries@math.stat.ethz.ch
