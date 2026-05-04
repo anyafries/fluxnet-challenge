@@ -16,4 +16,4 @@ A small starter page for running the Fluxtrapolation benchmark.
 
 Questions, bugs, or feedback?  
 
-📧 anya.fries@math.stat.ethz.ch
+📧 anya.fries@stat.math.ethz.ch
