@@ -1,4 +1,4 @@
-# 🌿 Fluxtrapolation for the Seminar in Domain Generalization 
+# 🌿 FLUXtrapolation for the Seminar in Domain Generalization 
 
 A small starter page for running the Fluxtrapolation benchmark.
 
